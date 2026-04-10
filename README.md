@@ -1,5 +1,3 @@
-# 2D_Navier_Stokes
-Solving a 2D case of fluid flow with a closed cavity with finite difference algorithm
 # 2D Lid-Driven Cavity Flow Solver
 
 This project solves the incompressible 2D Navier–Stokes equations for a lid-driven cavity using Python and finite differences.
