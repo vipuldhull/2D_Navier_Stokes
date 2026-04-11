@@ -1,5 +1,5 @@
 import numpy as np
-from boundary_conditions import apply_velocity_bc, apply_pressure_bc
+from boundary_condition import apply_velocity_bc, apply_pressure_bc
 
 
 def build_up_b(rho, dt, dx, dy, u, v):
